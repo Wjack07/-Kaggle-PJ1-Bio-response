@@ -35,6 +35,8 @@ The performance is about 0.499
 
 Unexpectedly, the best combination iteration shows the performance is quite uneven,
 and there is no a clear trendn.
-The best ratio is rf:grbt=2:1
-The performance is about 0.429
-*I didnt run through it with fine enough resolution, but just quite rough
+The best ratio is surprisingly rf:grbt=1:0  <= so linear mixing between rf and gbrt is useless
+
+---
+6Dec2014
+Surprisingly, the local cross validation score is about 0.43, and the uploading performance is 0.398 (around 200 out from 6xx participants, not too bad.)
