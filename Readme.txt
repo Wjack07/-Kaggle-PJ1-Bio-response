@@ -1,4 +1,4 @@
-by ak321 @ 5Dec2014 
+by ak321/Wjack07 @ 5Dec2014 
 ---
 This work has been following this link:
 https://www.kaggle.com/wiki/GettingStartedWithPythonForDataScience
